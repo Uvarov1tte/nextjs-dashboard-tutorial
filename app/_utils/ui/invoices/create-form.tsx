@@ -1,4 +1,4 @@
-"use-client";
+"use client";
 
 import { createInvoice, State } from "@/app/_utils/lib/actions";
 import { useActionState } from "react";

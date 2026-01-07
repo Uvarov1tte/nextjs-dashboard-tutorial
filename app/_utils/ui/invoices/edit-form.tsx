@@ -1,4 +1,4 @@
-"use-client";
+"use client";
 
 import { CustomerField, InvoiceForm } from "@/app/_utils/lib/definitions";
 import {
